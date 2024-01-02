@@ -36,7 +36,7 @@ const CtaArea = () => {
                 style={{bottom:'16%',left:'-8%'}}
               />
               <h2 className="title">Miliki NFT GEMOY</h2>
-              <a href="https://t.me/nftpresidengemoy" className="btn gradient-btn">
+              <a href="https://t.me/nftpresidengemoy" target="_blank" className="btn gradient-btn">
                 Gabung Komunitas
               </a>
             </div>
