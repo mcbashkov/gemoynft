@@ -31,12 +31,11 @@ const CollectionArea = () => {
           data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 200;"
         >
           <a
-            href="https://opensea.io/"
+            href="https://drive.google.com/file/d/1VQKQGRCVtALAHDzrYPBeoLPWF7ySpPuQ/view?usp=sharing"
             target="_blank"
             className="btn gradient-btn"
           >
-            <span>Lihat di OPENSEA</span>{" "}
-            <i className="unicon-arrow-right"></i>
+            <span>WHITEPAPER</span>{" "}
           </a>
         </div>
       </div>

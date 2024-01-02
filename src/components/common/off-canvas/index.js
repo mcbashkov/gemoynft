@@ -45,7 +45,7 @@ const OffCanvas = ({setIsSidebarOpen,data_1=false,data_2=false,data_3=false}) =>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://twitter.com/nftgemoy" target="_blank">
                   <i className="fab fa-twitter"></i>
                 </a>
               </li>

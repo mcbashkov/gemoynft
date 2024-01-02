@@ -49,7 +49,7 @@ const Footer = () => {
                   </Link>
                 </div>
                 <p>
-                  Bersama Indonesia maju Ekonomi Digital.
+                  Bersama Ekonomi Digital Indonesia Maju.
                 </p>
                 <ul className="list-wrap footer__social">
                   <li>
@@ -58,17 +58,17 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/nftpresidengemoy" target="_blank">
+                    <a href="https://discord.gg/Vu3cuMZp" target="_blank">
                       <i className="fab fa-discord"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/nftpresidengemoy" target="_blank">
+                    <a href="https://www.instagram.com/nftgemoy/" target="_blank">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/nftpresidengemoy" target="_blank">
+                    <a href="https://twitter.com/nftgemoy" target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </li>

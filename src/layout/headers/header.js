@@ -130,7 +130,7 @@ const Header = ({ blog_page }) => {
                   <div className="tgmenu__action">
                     <ul className="list-wrap">
                       <li className="header-social">
-                      <a href="https://t.me/nftpresidengemoy" target="_blank">
+                      <a href="https://www.instagram.com/nftgemoy/" target="_blank">
                           <i className="fab fa-instagram"></i>
                         </a>
                         <a href="https://t.me/nftpresidengemoy" target="_blank">
